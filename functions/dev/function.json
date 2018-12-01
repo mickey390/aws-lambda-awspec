@@ -3,7 +3,7 @@
     "description": "",
     "runtime": "ruby2.5",
     "memory": 512,
-    "timeout": 120,
+    "timeout": 300,
     "handler": "index.lambda_handler",
     "environment": {
         "HOME": "/var/task"
