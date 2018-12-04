@@ -2,6 +2,8 @@
 
 - AWS lambda でawspecを動かすサンプル
 
+# 手順
+
 ## 準備
 
 ```
@@ -26,6 +28,7 @@ apex infra apply -target=module.iam
 apex deploy dev
 ```
 
+# メモ
 
 ## エラー
 
